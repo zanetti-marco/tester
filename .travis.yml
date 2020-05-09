@@ -4,12 +4,9 @@ language: R
 cache: packages
 
 os:
-  - linux
-  - osx
   - windows
 
 r:
-  - 3.4
-  - 3.5
+  - oldrel
   - release
   - devel
