@@ -2,6 +2,7 @@
 # tester
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.com/zanetti-marco/tester.svg?branch=master)](https://travis-ci.com/zanetti-marco/tester)
 <!-- badges: end -->
 
 The goal of tester is to ...
