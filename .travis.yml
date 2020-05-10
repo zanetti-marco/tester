@@ -1,10 +1,11 @@
 # R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
 
-language: bash
+language: R
 cache: packages
 
 os:
-  - windows
+  - linux
+  - osx
 
 r:
   - oldrel
