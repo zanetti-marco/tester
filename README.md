@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![Travis build status](https://travis-ci.com/zanetti-marco/tester.svg?branch=master)](https://travis-ci.com/zanetti-marco/tester)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/zanetti-marco/tester?branch=master&svg=true)](https://ci.appveyor.com/project/zanetti-marco/tester)
 <!-- badges: end -->
 
 The goal of tester is to ...
