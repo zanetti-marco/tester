@@ -14,3 +14,5 @@ hello <- function(x) {
   print(paste("Hello ", x))
 }
 ?hello
+
+#use_git_config(user.name = "Marco Zanetti", user.email = "zanetti.marco@hotmail.com")
